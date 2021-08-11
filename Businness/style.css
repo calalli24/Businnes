@@ -1,0 +1,171 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+#Header {
+  padding: 22rem 0;
+  background-image: url(https://preview.colorlib.com/theme/victor/assets/img/hero/h1_hero1.jpg.webp);
+  background-position: center;
+  background-size: cover;
+}
+
+#First {
+  margin-top: 3rem;
+}
+
+#First .box .left img {
+  margin-right: 20px;
+}
+
+#First .box .right h2 {
+  color: #232f55;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+#First .box .right p {
+  color: #454e6d;
+  font-size: 16px;
+}
+
+#Second {
+  margin-top: 4rem;
+  padding-bottom: 7rem;
+}
+
+#Second .top h2 {
+  color: #232f55;
+  font-size: 44px;
+}
+
+#Second .top p {
+  color: #6a6063;
+  font-size: 18px;
+}
+
+#Second .bottom {
+  margin-top: 3rem;
+}
+
+#Second .bottom .box {
+  border-bottom: 1px solid #6a6063;
+}
+
+#Second .bottom .box a {
+  text-decoration: none;
+  color: #232f55;
+  font-weight: bold;
+  margin-bottom: 25px;
+  display: block;
+}
+
+#Third {
+  background-color: #f8fafc;
+  padding-bottom: 10rem;
+}
+
+#Third .top {
+  margin-top: 7rem;
+}
+
+#Third .top h2 {
+  color: #232f55;
+  font-size: 44px;
+}
+
+#Third .top p {
+  color: #6a6063;
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+#Third .bottom .box {
+  margin-top: 2rem;
+  background-color: #fff;
+  padding: 52px 50px;
+}
+
+#Third .bottom .box .icon {
+  margin-bottom: 20px;
+}
+
+#Third .bottom .box .list .a1 {
+  font-size: 24px;
+  color: #232f55;
+  text-decoration: none;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+#Third .bottom .box .list .a1:hover {
+  color: #ff6d21;
+}
+
+#Third .bottom .box .list .a2 {
+  color: #ff6d21;
+  font-size: 16px;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+#Third .bottom .box .list .a2:hover {
+  letter-spacing: 2px;
+}
+
+#Third .bottom .box .list li {
+  font-size: 16px;
+  color: #454e6d;
+  list-style: none;
+}
+
+#Third .bottom .right {
+  margin-top: 7rem;
+}
+
+#Fourth {
+  margin-top: 3rem;
+  background-image: url(https://preview.colorlib.com/theme/victor/assets/img/gallery/section-bg1.jpg.webp);
+  background-size: cover;
+  background-position: center;
+  padding: 6rem 0;
+}
+
+#Fourth .box {
+  padding: 65px 50px 65px 60px;
+  margin-left: 20px;
+  background-color: #fff;
+  border-radius: 20px;
+}
+
+#Fourth .box .all {
+  text-align: left;
+}
+
+#Fourth .box .all .icon {
+  margin-bottom: 25px;
+}
+
+#Fourth .box .all .icon img {
+  vertical-align: middle;
+}
+
+#Fourth .box .all .cap p {
+  font-size: 20px;
+  color: #454e6d;
+  margin-bottom: 37px;
+}
+
+#Fourth .box .all .ceo span {
+  font-size: 22px;
+  color: #ff6d21;
+  font-weight: bold;
+}
+
+#Fourth .box .all .ceo p {
+  font-size: 16px;
+  font-weight: 500;
+}
+/*# sourceMappingURL=style.css.map */
